@@ -1,2 +1,2 @@
 # spring-ai-learn
-Learning Spring AI
+Running on Java 17
